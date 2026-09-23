@@ -6,7 +6,7 @@ Java와 Spring 기반 백엔드를 중심으로, Vue 화면부터 Kubernetes 배
 
 ## Projects
 
-### [MSA4 LMS v2](https://github.com/jeongtaecoding-jpg/MSA4-LMS-V2)
+### [MSA4 LMS v2](https://github.com/MSA4-LMS-V2)
 
 대학의 학사·수업·등록금 업무를 인증, 학사, 결제 서비스로 분리한 팀 프로젝트입니다.
 
