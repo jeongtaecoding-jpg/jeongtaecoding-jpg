@@ -17,7 +17,7 @@ Java와 Spring 기반 백엔드를 중심으로, Vue 화면부터 Kubernetes 배
 
 `Java 21` `Spring Boot 4.1` `Spring Security` `JPA` `QueryDSL` `Kafka` `Redis` `MySQL` `MinIO` `Vue 3` `Kubernetes`
 
-### [Meerkatgram](https://github.com/jeongtaecoding-jpg/msa4-meerkatgram)
+### [Meerkatgram-v1](https://github.com/jeongtaecoding-jpg/msa4-meerkatgram)
 
 이미지 게시글을 작성하고 조회하는 커뮤니티 서비스를 단일 애플리케이션으로 구현한 뒤, 인증과 게시글 도메인을 독립적으로 배포할 수 있는 구조로 확장한 개인 프로젝트입니다.
 
@@ -26,7 +26,7 @@ Java와 Spring 기반 백엔드를 중심으로, Vue 화면부터 Kubernetes 배
 - 로컬 파일 저장을 MinIO 오브젝트 스토리지로 전환하고 도메인별 파일 생명주기를 분리했습니다.
 - GitHub Actions에서 이미지를 빌드하고, manifest 갱신과 Argo CD 동기화를 거쳐 Kubernetes에 배포하는 흐름을 구성했습니다.
 
-[Auth](https://github.com/jeongtaecoding-jpg/meerkatgram-v2-auth) · [Post](https://github.com/jeongtaecoding-jpg/meerkatgram-v2-post) · [Gateway](https://github.com/jeongtaecoding-jpg/meerkatgram-v2-scg) · [Client](https://github.com/jeongtaecoding-jpg/meerkatgram-v2-client) · [Kubernetes](https://github.com/jeongtaecoding-jpg/k8s-manifest)
+[v2-Auth](https://github.com/jeongtaecoding-jpg/meerkatgram-v2-auth) · [v2-Post](https://github.com/jeongtaecoding-jpg/meerkatgram-v2-post) · [v2-Gateway](https://github.com/jeongtaecoding-jpg/meerkatgram-v2-scg) · [v2-Client](https://github.com/jeongtaecoding-jpg/meerkatgram-v2-client) · [Kubernetes](https://github.com/jeongtaecoding-jpg/k8s-manifest)
 
 `Java 21` `Spring Boot 4.1` `Spring Cloud Gateway` `Spring Security` `JPA` `QueryDSL` `MySQL` `MinIO` `Vue 3` `Docker` `GitHub Actions` `Argo CD` `Kubernetes`
 
