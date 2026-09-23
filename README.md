@@ -1,4 +1,4 @@
-## Hi there 👋
+## 김정태 | Software Developer 
 
 <!--
 **jeongtaecoding-jpg/jeongtaecoding-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
